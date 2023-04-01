@@ -1,4 +1,4 @@
-# Seed-Sowing-Rower-with Application-ESP8266 NODE MCU 
+# Seed-Sowing-Rower-with Android Application-ESP8266 NODE MCU 
 
 It is Seed Sowing Rower Controled by Application 
 
